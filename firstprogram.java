@@ -149,16 +149,16 @@ public class firstprogram {
         // System.out.println(a[1][0]);
         // System.out.println(average(3, 6));
 
-        int a[] = new int[3];
+        //int a[] = new int[3];
 
-        try{
-        System.out.println(a[4]);
-        } catch(ArrayIndexOutOfBoundsException e) {
-            System.out.println("Error aaya tha");
-            System.out.println(e.getLocalizedMessage());
-        }
+        //try{
+//         System.out.println(a[4]);
+//         } catch(ArrayIndexOutOfBoundsException e) {
+//             System.out.println("Error aaya tha");
+//             System.out.println(e.getLocalizedMessage());
+//         }
 
-        System.out.println("niche ki line");
+//         System.out.println("niche ki line");
 
     }
     //method
